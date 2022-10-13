@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gerardo
 - 👀 I’m interested in finance and technology.
-- 🌱 I’m currently learning Python, SQL & Solidity.
+- 🌱 I’m currently learning Python, SQL, ML & Solidity.
 - 💞️ I’m looking to collaborate on all finance things.
 - 📫 Reach me at gerardogomez066@gmail.com
 
