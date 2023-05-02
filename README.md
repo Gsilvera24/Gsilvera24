@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gerardo
 - 👀 I’m interested in finance and technology.
 - 🌱 Experience in Finance, Python, Data Analysis. 
-- 🌱 Now learning Multicloud DevOps tools.
+- 🌱 Now learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on all finance things.
 - 📫 Reach me at gerardogomez066@gmail.com
 
